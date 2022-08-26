@@ -1,0 +1,14 @@
+#!/bin/bash
+# Author: C Tompkins
+# Date Created: 20220616
+# Last Modified: 20220616
+
+# Description:
+# Prints "This is my first script" ti the terminal
+
+# Usage
+# our_first_script
+
+echo "This is my first script"
+exit 0
+

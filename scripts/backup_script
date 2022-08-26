@@ -1,0 +1,23 @@
+#!/bin/bash
+
+# Author: C Tompkins
+# Date Created: 20220617
+# Last Modified: 20220626
+
+# Description: 
+# Backup files from home directory to bash_course directory
+
+# Usage:
+# backup_script
+
+currentdir=$(pwd)
+
+echo "hello, ${USER^}."
+echo "I will now back up your home directory, ${HOME}."
+echo "You are running this script from ${currentdir}."
+echo "Therefore, I will save the backup in ${currentdir}."
+
+tar -cf ${currentdir}/my_backup_"$(date +%d-%m-%Y_%H-%M-%S)".tar $HOME/* 2>/dev/null
+
+echo "complete"
+exit 0
