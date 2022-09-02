@@ -17,7 +17,7 @@ numbers+=(11 12 13 14 15)
 # No blank spaces around the += operator
 echo ${numbers[@]} # 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
 
-# Hoe to delete an element from an array:
+# How to delete an element from an array:
 unset numbers[2]
 echo ${numbers[@]} # 2 3 4 5 6 7 8 9 10 11 12 13 14 15
 
