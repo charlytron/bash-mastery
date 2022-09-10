@@ -1,6 +1,6 @@
 # Bash Mastery
 
-## Notes from a Course by Internet of Things Academy.
+## Notes from a Course by Internet of Things Academy
 
 My notes didn't seem to evolve into anything helpful until
 section 7, when I realized that this was a job for Jupyter Notebooks
@@ -13,4 +13,3 @@ The usual shebang script `#!/bin/bash` at the top of the shell script will gener
 ``` bash
 %%bash
 ```
-
