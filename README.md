@@ -8,7 +8,9 @@ section 7, when I realized that this was a job for Jupyter Notebooks
 Current version of VS Code supports not only Jupyter but also
 runnable shell script code cells, an obvious boon.
 
-The usual shebang script `#!/bin/bash` at the top of the shell script will generate errors below these code cells, but the following code will replace the shebang.
+The usual shebang script `#!/bin/bash` at the top of the shell script will generate errors below these code cells.
+
+We'll substitute the shebang with the following in order for our shell scripts to run in `.ipynb` files:
 
 ``` bash
 %%bash
