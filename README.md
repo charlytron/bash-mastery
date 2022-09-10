@@ -3,7 +3,8 @@
 ## Notes from a Course by Internet of Things Academy
 
 My notes didn't seem to evolve into anything helpful until
-section 7, when I realized that this was a job for Jupyter Notebooks
+section 7 of this course, when I realized that documenting my code, and testing my assumptions about it,
+was a job for Jupyter Notebooks
 
 Current version of VS Code supports not only Jupyter but also
 runnable shell script code cells, an obvious boon.
