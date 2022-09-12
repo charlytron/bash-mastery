@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://www.google.com/gmail/
+Cross-Origin-Resource-Policy: cross-origin
+X-Content-Type-Options: nosniff
+Server: sffe
+Content-Length: 226
+X-XSS-Protection: 0
+Date: Sun, 11 Sep 2022 23:43:46 GMT
+Expires: Mon, 12 Sep 2022 00:13:46 GMT
+Cache-Control: public, max-age=1800
+Content-Type: text/html; charset=UTF-8
+Age: 303
+

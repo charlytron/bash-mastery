@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://www.facebook.com/
+Content-Type: text/html; charset="utf-8"
+X-FB-Debug: ypvyIgebuVp335+OtqkUAHMOA4GnuyTCWnGHmKoOlP4ZjqqKFcOmW8YEtTHffr2iZAVX4JMIOPAekZa2qVVwzA==
+Date: Sun, 11 Sep 2022 23:48:49 GMT
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Connection: keep-alive
+Content-Length: 0
+
