@@ -22,4 +22,4 @@ echo # for formatting
 read -N 4 -s -p "What access code would you like to use when dialling in (must be 4 digits)?: " access
 echo # for formatting
 
-echo "$firstname,$lastname,$phone,$department,$ext,$access" >> extensions.csv
+echo "$firstname,$lastname,$phone,$department,$ext,$access" >>extensions.csv

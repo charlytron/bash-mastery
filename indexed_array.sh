@@ -5,7 +5,7 @@ echo "${numbers[1]}"
 echo "${numbers[2]}"
 echo "${numbers[@]:1}" # offsets the array by 1
 # giving us 2 3 4 5 6 7 8 9 10
-echo "${numbers[@]:1:3}" 
+echo "${numbers[@]:1:3}"
 # offsets the array by 1 and
 # gives us 2 3 4
 
